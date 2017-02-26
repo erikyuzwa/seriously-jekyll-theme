@@ -13,6 +13,7 @@ Originally based on the (most excellent) [Start Bootstrap - Agency Bootstrap The
 * `npm install`
 * `bower install`
 * `npm start` - prepares the site's assets then runs the traditional `jekyll serve` for local testing
+* open your browser to `http://localhost:4000/seriously-jekyll-theme/`
 
 ##Configuration
 
