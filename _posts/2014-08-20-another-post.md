@@ -1,6 +1,6 @@
 ---
 title: Lorem Ipsum Dolor Sit Amet
-featured: images/pic04.jpg
+featured: images/blog/pic04.jpg
 layout: post
 ---
 
