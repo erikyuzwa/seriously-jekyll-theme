@@ -1,0 +1,22 @@
+{
+  "name": "maker",
+  "description": "the jekyll corp and portfolio theme",
+  "main": "index.js",
+  "authors": [
+    "Erik Yuzwa <erik@erikyuzwa.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
