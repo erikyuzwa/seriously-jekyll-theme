@@ -1,6 +1,8 @@
 Seriously Jekyll theme
 ======================
 
+![screenshot](/screenshot.png?raw=true)
+
 Wanted to put together a "serious" Jekyll theme. 
 Should be perfect for use with your portfolio site, corporate site, etc.
 

@@ -83,3 +83,4 @@ exclude:
   - bower.json
   - package.json
   - Gruntfile.js
+  - screenshot.png
