@@ -60,6 +60,9 @@ address:
   - line: 3481 Melrose Place
   - line: Beverly Hills, CA 90210
 
+# google analytics tracking code, please change the value
+google_analytics_id:      "UA-xxxxxxxx-x"
+
 # Build settings
 permalink: pretty
 
